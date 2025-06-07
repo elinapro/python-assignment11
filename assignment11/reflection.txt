@@ -1,0 +1,12 @@
+Reflect on the differences between static and interactive visualizations.
+
+its quite exciting to be able to build an interactive visualization thats responsive to live updates. really brings new meaning to what we are working on. 
+
+
+Write a short paragraph discussing the advantages of using dashboards for real-time data exploration.
+
+dashboards provide us an essential visualization with the current updates and being able to compare more than one view of something really allows us to see the differences in data
+
+Explain how interactive tools like Plotly and Dash can improve data communication in professional settings.
+
+they can provide us with an education view of live updates, so we can make decisions like financial investing, or updates to our accounts in real time. 
